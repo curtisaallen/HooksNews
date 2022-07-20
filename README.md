@@ -3,10 +3,6 @@ Hooks News App
 
 ![](https://curtisaallen.github.io/HooksNews/bg.png)
 
-### Demo
-[React Hooks News App - Live DEMO](https://goofy-leavitt-617b02.netlify.com/)
-
-
 ## Project setup
 ```
 npm install
